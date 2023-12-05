@@ -1,5 +1,6 @@
 # Embedded-Systems
-Assembly Code:
+Designed and Simulated an Embedded System circuit using Proteus an Automatic Street Light controller that block of street light ahead of it and simultaneously switching off the trailing lights by detecting the vehicle movement on highways to save energy.
+
 
 org   0000h    
 jmp   MAIN 
